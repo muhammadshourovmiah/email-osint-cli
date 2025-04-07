@@ -1,0 +1,3 @@
+dnspython
+validate_email_address
+requests
