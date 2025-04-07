@@ -14,6 +14,6 @@ A simple command-line tool to gather Open-Source Intelligence (OSINT) from an em
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/email-osint-cli
+git clone https://github.com/muhammadshourovmiah/email-osint-cli
 cd email-osint-cli
 pip install -r requirements.txt
